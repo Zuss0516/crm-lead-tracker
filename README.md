@@ -6,8 +6,7 @@ A lightweight, browser-based CRM built for small businesses to track leads, pipe
 
 ## Live Demo
 
-> [View live on GitHub Pages](https://yourusername.github.io/crm-lead-tracker)
-> *(replace with your actual GitHub Pages link after deploying)*
+https://github.com/Zuss0516/crm-lead-tracker
 
 ---
 
@@ -76,6 +75,6 @@ Any small business that needs a simple way to manage leads without paying for a 
 
 ## About
 
-Built by [Your Name] — IT graduate and tech VA with hands-on experience in CRM systems, workflow automation, and client operations. This project was built to demonstrate practical frontend and systems thinking applied to a real business use case.
+Built by Leandro Balano — IT graduate and tech VA with hands-on experience in CRM systems, workflow automation, and client operations. This project was built to demonstrate practical frontend and systems thinking applied to a real business use case.
 
-Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)
+Connect with me on [LinkedIn] https://www.linkedin.com/in/leandrob051602
